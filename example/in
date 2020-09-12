@@ -1,0 +1,22 @@
+a AA
+a BB
+f AA BB 10 21 1p1
+f BB AA 10 21 1p1
+m
+p AA BB
+m
+a aa
+a bb
+a cc
+a dd
+a ee
+f aa bb 10 2 M1
+f aa dd 1 20 M2
+f bb dd 3 12 M3
+f dd cc 4 13 M4
+f aa cc 5 7 M5
+f aa ee 4 7 M6
+f ee bb 3 10 M7
+p aa dd
+p aa cc
+p dd bb
