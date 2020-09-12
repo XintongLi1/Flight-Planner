@@ -1,0 +1,141 @@
+A flight with that name already exists!
+Memory test mode enabled.
+Flight plan 1:
+    Duration:   10 hours
+       Price:   $21
+        Pain:   130
+     Details:
+        AA->BB
+            Flight 1p1, 10 hours, $21
+Memory test mode disabled.
+Flight plan 1:
+    Duration:   1 hours
+       Price:   $20
+        Pain:   24
+     Details:
+        aa->dd
+            Flight M2, 1 hours, $20
+Flight plan 2:
+    Duration:   10 hours
+       Price:   $20
+        Pain:   123
+     Details:
+        aa->cc
+            Flight M5, 5 hours, $7
+        cc->dd
+            Flight M4, 4 hours, $13
+Flight plan 3:
+    Duration:   14 hours
+       Price:   $14
+        Pain:   179
+     Details:
+        aa->bb
+            Flight M1, 10 hours, $2
+        bb->dd
+            Flight M3, 3 hours, $12
+Flight plan 4:
+    Duration:   12 hours
+       Price:   $29
+        Pain:   258
+     Details:
+        aa->ee
+            Flight M6, 4 hours, $7
+        ee->bb
+            Flight M7, 3 hours, $10
+        bb->dd
+            Flight M3, 3 hours, $12
+Flight plan 1:
+    Duration:   5 hours
+       Price:   $7
+        Pain:   17
+     Details:
+        aa->cc
+            Flight M5, 5 hours, $7
+Flight plan 2:
+    Duration:   6 hours
+       Price:   $33
+        Pain:   98 
+     Details:
+        aa->dd
+            Flight M2, 1 hours, $20
+        dd->cc
+            Flight M4, 4 hours, $13
+Flight plan 3:
+    Duration:   19 hours
+       Price:   $27
+        Pain:   862
+     Details:
+        aa->bb
+            Flight M1, 10 hours, $2
+        bb->dd
+            Flight M3, 3 hours, $12
+        dd->cc
+            Flight M4, 4 hours, $13
+Flight plan 4:
+    Duration:   17 hours
+       Price:   $42
+        Pain:   931
+     Details:
+        aa->ee
+            Flight M6, 4 hours, $7
+        ee->bb
+            Flight M7, 3 hours, $10
+        bb->dd
+            Flight M3, 3 hours, $12
+        dd->cc
+            Flight M4, 4 hours, $13
+Flight plan 1:
+    Duration:   3 hours
+       Price:   $12
+        Pain:   20
+     Details:
+        dd->bb
+            Flight M3, 3 hours, $12
+Flight plan 2:
+    Duration:   12 hours
+       Price:   $22
+        Pain:   196
+     Details:
+        dd->aa
+            Flight M2, 1 hours, $20
+        aa->bb
+            Flight M1, 10 hours, $2
+Flight plan 3:
+    Duration:   10 hours
+       Price:   $37
+        Pain:   229
+     Details:
+        dd->aa
+            Flight M2, 1 hours, $20
+        aa->ee
+            Flight M6, 4 hours, $7
+        ee->bb
+ Flight M7, 3 hours, $10
+Flight plan 4:
+    Duration:   21 hours
+       Price:   $22
+        Pain:   1012
+     Details:
+        dd->cc
+            Flight M4, 4 hours, $13
+        cc->aa
+            Flight M5, 5 hours, $7
+        aa->bb
+            Flight M1, 10 hours, $2
+Flight plan 5:
+    Duration:   19 hours
+       Price:   $37
+        Pain:   1182
+     Details:
+        dd->cc
+            Flight M4, 4 hours, $13
+        cc->aa
+            Flight M5, 5 hours, $7
+        aa->ee
+            Flight M6, 4 hours, $7
+        ee->bb
+            Flight M7, 3 hours, $10
+
+        
+                   
+                   
