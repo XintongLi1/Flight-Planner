@@ -1,5 +1,7 @@
 ## Flight-Planner
 
+*Plans your trip and find out the flight of the least pain ~*
+
 | Command | Explanation |
 | --- | --- |
 | a *name* | Adds an airport with the given name |
